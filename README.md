@@ -1,1 +1,1 @@
-this is the content of the textdirfile.
+this is the content of the textdi.
